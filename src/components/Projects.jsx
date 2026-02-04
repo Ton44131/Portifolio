@@ -7,7 +7,7 @@ import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/proj4.png";
 import proj5 from "../assets/proj5.png";
 import proj6 from "../assets/proj6.png";
-
+import proj7 from "../assets/proj7.jpeg";
 export default function Projects() {
   return (
     <section className="section-box" id="projects">
