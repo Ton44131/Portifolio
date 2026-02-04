@@ -34,13 +34,13 @@ export default function Projects() {
         <Card 
           title="Jogo Cor"
           description="Jogo de acertar cores"
-          image={proj4}
+          image={proj3}
           link="https://ton44131.github.io/Jogo-cor/"
         />
         <Card 
           title="Basquete"
           description="Site sobre a NBA"
-          image={proj3}
+          image={proj4}
           link="https://ton44131.github.io/basquete-2.0/"
         />
 
