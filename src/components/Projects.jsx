@@ -58,10 +58,10 @@ export default function Projects() {
           link="https://ton44131.github.io/NotaFiscal/"
         />
         <Card 
-          title="Nota fiscal"
-          description="Site para Salvar documentos em PDF"
-          image={proj6}
-          link="https://ton44131.github.io/NotaFiscal/"
+          title="Chat em grupo"
+          description="Site de sala de chat em tempo real"
+          image={proj7}
+          link="https://chat-fake2.onrender.com"
         />
       </div>
     </section>
