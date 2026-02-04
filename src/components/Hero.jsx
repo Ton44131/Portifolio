@@ -12,7 +12,7 @@ export default function Hero() {
         <h3>Técnico em Desenvolvimento de Sistemas</h3>
 
         <p>
-          Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento moderno e boas práticas de programação.
+          Sou técnico em Desenvolvimento de Sistemas, com foco em desenvolvimento moderno e boas práticas de programação.
           Ao longo da minha formação, me aprofundei em JavaScript, Python e outras tecnologias essenciais para o mercado,
           complementando meus estudos com diversos cursos extra que reforçaram minhas habilidades técnicas e práticas.
         </p>
